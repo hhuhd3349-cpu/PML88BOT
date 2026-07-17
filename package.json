@@ -1,0 +1,12 @@
+{
+  "name": "pml88-football-bot",
+  "version": "1.0.0",
+  "description": "PML88 - Classic Football Match-Day Companion Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
